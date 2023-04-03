@@ -1,10 +1,10 @@
 # git1
 
-trabajo 1:Generar un archivo de texto con sus datos personales, donde expliciten cómo están transitando la instancia de ingreso, qué experiencias positivas pueden comentar y cuáles obstáculos encontraron.
+trabajo 1: Generar un archivo de texto con sus datos personales, donde expliciten cómo están transitando la instancia de ingreso, qué experiencias positivas pueden comentar y cuáles obstáculos encontraron.
 
-2. ¿Podrías identificar, teniendo en cuenta el documento de Metodologías de estudio aplicadas al software, tres de las habilidades que se mencionan y que estas aplicando para realizar esta actividad?. Agrega tambien esa información dentro del documento solicitado.
+trabajo 2. ¿Podrías identificar, teniendo en cuenta el documento de Metodologías de estudio aplicadas al software, tres de las habilidades que se mencionan y que estas aplicando para realizar esta actividad?. Agrega tambien esa información dentro del documento solicitado.
 
-3. En el mismo documento solicitado agregar los comandos de git que han utilizado para esta actividad.
+trabajo 3. En el mismo documento solicitado agregar los comandos de git que han utilizado para esta actividad.
 
 
 1. DATOS PERSONALES:
