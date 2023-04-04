@@ -15,9 +15,11 @@ trabajo 3. En el mismo documento solicitado agregar los comandos de git que han 
 
    EXPERIENCIAS ACERCA DE LA INSTANCIA DE INGRESO:
     
-    POSITIVAS:sin poder profundizar en  los conocimientos en este cursillo, quiero desctacar la paciencia de los profesores, por ahora es algo a destacar teniendo en cuenta que somos diferentes personas con diferentes niveles de conocimientos ellos nos tratan de integrar todo el tiempo.
+    POSITIVAS: Sin poder profundizar en  los conocimientos en este cursillo, quiero desctacar la paciencia de los profesores, por ahora es algo a destacar teniendo en cuenta que somos diferentes personas con diferentes niveles de conocimientos ellos nos tratan de integrar todo el tiempo.
     
-2. Las tres habilidades cognitivas que me encuentro aplicando en esta actividad son: razonamiento, percepción y memoria. 
+    OBSTACULOS: Yo en lo personal, me frustra mucho no poder llevar mi propia computadora a clases y no poder contar con un buen servicio de internet, o al menos con un servicio, ya que donde vivo no puedo contar con internet. Claramente son todas instancias personales que no tienen nada que ver con la carrera y la institucion, que hasta ahora solo tengo experiencias positivas.
+    
+2. Las tres habilidades cognitivas que me encuentro aplicando en esta actividad son: lenguaje, razonamiento, percepción y memoria. 
 
 3. COMANDOS UTILIZADOS EN GIT: 
     1) git init
@@ -25,12 +27,12 @@ trabajo 3. En el mismo documento solicitado agregar los comandos de git que han 
     2) git status
     3) git add
     4) git status
-    5) git commit -m "subiendo tarea git-github"
+    5) git commit
     6) git push origin master
     7) git pull
     8) git clear
     9) git status
     10) git add .
     11) git status
-    12) git commit -m "modificacion de la rama en el comando del punto g"
+    12) git commit -m 
     13) git push origin master
